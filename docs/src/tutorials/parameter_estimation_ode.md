@@ -168,3 +168,5 @@ Plots.plot(remade_solution, ylim = (0, 6))
 ```
 
 ![Final plot](https://user-images.githubusercontent.com/1814174/51399500-1f4dd080-1b14-11e9-8c9d-144f93b6eac2.gif)
+
+See also: [Dyad's calibration documentation](https://help.juliahub.com/dyad/stable/analyses/calibration.html) for calibration of component-based physical models.
